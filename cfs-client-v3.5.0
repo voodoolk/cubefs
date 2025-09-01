@@ -1,0 +1,1 @@
+FROM cubefs/cfs-client:v3.5.0
