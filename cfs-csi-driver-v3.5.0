@@ -1,0 +1,1 @@
+FROM cubefs/cfs-csi-driver:v3.5.0
